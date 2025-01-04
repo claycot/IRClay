@@ -1,0 +1,9 @@
+.msgSystem {
+    font-weight: bolder;
+    color: green;
+}
+
+.msgUser {
+    font-weight: bolder;
+    color: cyan;
+}

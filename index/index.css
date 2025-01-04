@@ -1,0 +1,23 @@
+.msgSystem {
+    font-weight: bolder;
+    color: green;
+}
+
+.msgUser {
+    font-weight: bolder;
+    color: cyan;
+}
+
+#input {
+    font-family: 'Courier New', Courier, monospace;
+    color: goldenrod;
+}
+
+#output {
+    font-family: 'Courier New', Courier, monospace;
+    color: goldenrod;
+}
+
+body {
+    background-color: rgb(31, 39, 39);
+}
